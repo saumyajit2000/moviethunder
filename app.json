@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
+  "repository": "https://github.com/saumyajit2000/moviethunder",
   "logo": "https://telegra.ph/file/d0bf2683e334b37dd062f.jpg",
   "env": {
     "TG_BOT_TOKEN": {
